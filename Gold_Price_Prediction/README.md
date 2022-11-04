@@ -22,3 +22,4 @@
 <p> The highest accuracy I got after training = 0.997 (this accuracy was on test set)
         
         
+<H3> Approximate time to complete the project (2:30) Hours</H3>
