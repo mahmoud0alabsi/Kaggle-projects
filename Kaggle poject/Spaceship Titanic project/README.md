@@ -1,6 +1,7 @@
-<h1> Spaceship Titanic competition project </h1>
+<h1> Spaceship Titanic competitions project </h1>
 
 <p> In this competition, I used many Machine Learning models and Deep Neural Network after import libraries and make data analysis and some EDA. </p>
+Competitions Links: https://www.kaggle.com/competitions/spaceship-titanic/overview
 
 <p> 
       Project steps:
@@ -14,4 +15,4 @@
           7- Build neural network 
           8- test models
 
-<p> Best Accuresy I have reached = 0.74444 </p>
+<p> Best Accuresy I have reached = 0.75169 </p>
