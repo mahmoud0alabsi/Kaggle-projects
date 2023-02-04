@@ -6,6 +6,8 @@ The task was to "Predict House Prices", but the data set was not easy at all, an
 
 I got second place in the competition held during the BootCamp, an error (0.13682) and a difference (0.00164) from the first place, the percentage of error at the first place (0.13518), it was a unique experience from which I learned a lot.
 
+Competition Link: https://www.kaggle.com/competitions/shai-advanced-regression-techniques
+
 Project steps:
 
       1- import libraries
