@@ -20,3 +20,7 @@ Project steps:
 </p>
 
 <p> Best Accuresy I have reached = 0.13682 (error) </p>
+
+
+
+![image](https://user-images.githubusercontent.com/44245032/216787196-6e4ff62d-ccd5-4fae-94a7-236b073f1383.png)
