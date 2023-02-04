@@ -1,7 +1,7 @@
 <h1> Spaceship Titanic competition </h1>
 
 <p> In this competition, I used many Machine Learning models and Deep Neural Network after import libraries and make data analysis and some EDA. </p>
-Competition Links: https://www.kaggle.com/competitions/spaceship-titanic/overview
+Competition Link: https://www.kaggle.com/competitions/spaceship-titanic/overview
 
 <p> 
       Project steps:
