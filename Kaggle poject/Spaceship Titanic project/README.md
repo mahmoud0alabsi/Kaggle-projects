@@ -8,8 +8,8 @@
           1- import libraries
           2- import data and discover it
           3- data preprocessing 
-          4- EDA & data enfineering
-          5- train & select models
+          4- EDA & data engineering
+          5- train & select models (LR, DT, RF, XGBoost, GradientBoosting, Ensemble)
           6- using pretty libraries said (Lazy predict)
           7- Build neural network 
           8- test models
